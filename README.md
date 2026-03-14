@@ -1,6 +1,6 @@
 # Spotify-Macropad
 ## Hackpad
-### <img width="847" height="739" alt="image" src="https://github.com/user-attachments/assets/2b1633b9-7737-4c02-a882-71514757e828" />
+
 ## Schematic 
 ### <img width="582" height="526" alt="image" src="https://github.com/user-attachments/assets/915563e9-e7b8-4b81-8141-cd4cc7822400" />
 ## PCB
