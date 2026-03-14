@@ -1,4 +1,6 @@
 # Spotify-Macropad
+## What is it and why I made it
+A small keyboard called a macropad designed to control songs on spotify and media on YouTube.
 ## Hackpad
 ### 
 ## Schematic 
